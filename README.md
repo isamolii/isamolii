@@ -12,6 +12,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+### Threat Hunting and Security Operations
+- [Threat Hunting Scenario (Tor Browser Usage)](link-to-your-tor-repo)
+- [Akira Ransomware Threat Hunt - Ashford Sterling Recruitment](https://github.com/YOUR-USERNAME/Akira-Ransomware-Threat-Hunt)
 <hr/>
 
 ## 🤳 Connect With Me
